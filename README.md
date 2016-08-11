@@ -1,5 +1,4 @@
 # third
-Once again let's hit the beach. 
-Over the hills and through the dales. 
+Deleted two lines. Added one. 
 What is the where and how of the here and now?
 
